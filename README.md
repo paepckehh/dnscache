@@ -7,7 +7,7 @@
 
 # Showtime 
 
-## local dns resolver cache-hit vs. dnscache cache-hit ( latency / alloc )
+## default golang resolver vs. dnscache ( latency / alloc )
 
 ``` Shell
 goos: freebsd
