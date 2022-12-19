@@ -1,3 +1,3 @@
-module paepcke.de/dnsache
+module paepcke.de/dnscache
 
 go 1.20
