@@ -21,3 +21,5 @@
 Makefile
 doc
 vendor
+dnscache
+cmd/dnscache/dnscache
