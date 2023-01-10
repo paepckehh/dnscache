@@ -1,4 +1,4 @@
-# Overview 
+# OVERVIEW
 
 [paepche.de/dnscache](https://paepcke.de/dnscache)
 
@@ -7,7 +7,7 @@
 - less than 350 LOC, 100 % pure golang, stdlib only, external dependency free, easy to use
 - see api.go for details
 
-# Showtime 
+# SHOWTIME  
 
 ## default golang resolver vs. dnscache ( latency / alloc )
 
@@ -19,3 +19,11 @@ Benchmark_stdlib-4     	       1	10403693854 ns/op	21246312 B/op	  245988 allocs
 Benchmark_dnscache-4   	     531	    2247311 ns/op	       0 B/op	       0 allocs/op
 PASS
 ```
+
+# DOCS
+
+[pkg.go.dev/paepcke.de/dnscache](https://pkg.go.dev/paepcke.de/dnscache)
+
+# CONTRIBUTION
+
+Yes, Please! PRs Welcome! 
