@@ -1,4 +1,5 @@
 # OVERVIEW
+[![Go Report Card](https://goreportcard.com/badge/paepcke.de/dnscache)](https://goreportcard.com/report/paepcke.de/dnscache)
 
 [paepche.de/dnscache](https://paepcke.de/dnscache/)
 
