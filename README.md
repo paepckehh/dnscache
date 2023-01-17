@@ -1,5 +1,5 @@
 # OVERVIEW
-[![Go Reference](https://pkg.go.dev/badge/paepcke.de/dnscache.svg)](https://pkg.go.dev/paepcke.de/dnscache) [![Go Report Card](https://goreportcard.com/badge/paepcke.de/dnscache)](https://goreportcard.com/report/paepcke.de/dnscache)
+[![Go Reference](https://pkg.go.dev/badge/paepcke.de/dnscache.svg)](https://pkg.go.dev/paepcke.de/dnscache) [![Go Report Card](https://goreportcard.com/badge/paepcke.de/dnscache)](https://goreportcard.com/report/paepcke.de/dnscache) [![Go Build](https://github.com/paepckehh/dnscache/actions/workflows/golang.yml/badge.svg)](https://github.com/paepckehh/dnscache/actions/workflows/golang.yml)
 
 [paepche.de/dnscache](https://paepcke.de/dnscache/)
 
