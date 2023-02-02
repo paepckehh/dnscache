@@ -1,4 +1,4 @@
-// package dnscache ...
+// package dnscache provides an example async and multithreaded map based dnscache
 package dnscache
 
 // import
