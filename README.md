@@ -1,7 +1,7 @@
 # OVERVIEW
 [![Go Reference](https://pkg.go.dev/badge/paepcke.de/dnscache.svg)](https://pkg.go.dev/paepcke.de/dnscache) [![Go Report Card](https://goreportcard.com/badge/paepcke.de/dnscache)](https://goreportcard.com/report/paepcke.de/dnscache) [![Go Build](https://github.com/paepckehh/dnscache/actions/workflows/golang.yml/badge.svg)](https://github.com/paepckehh/dnscache/actions/workflows/golang.yml)
 
-[paepche.de/dnscache](https://paepcke.de/dnscache/)
+[paepcke.de/dnscache](https://paepcke.de/dnscache/)
 
 - 100 % api compatible with stdlib dns net package (100% api coverage for simple api) just plug&play
 - thread safe, memory efficient, low-latency, ignore (bungled) dns ttl and enforce caching for 24 hours
