@@ -1,3 +1,3 @@
 module paepcke.de/dnscache
 
-go 1.21
+go 1.23.5

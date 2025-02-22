@@ -8,15 +8,10 @@ import (
 	"paepcke.de/dnscache"
 )
 
-const iterations = 250
+const iterations = 100
 
 var domains = []string{
-	"bbc.co.uk",
-	"codeberg.org",
-	"www.ccc.de",
 	"paepcke.de",
-	"sslmate.com",
-	"git.kernel.org",
 	"www.github.com",
 }
 
